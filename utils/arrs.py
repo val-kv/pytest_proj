@@ -25,6 +25,7 @@ def my_slice(coll, start=None, end=None):
     :return: массив элементов
     """
 
+
     length = len(coll)
 
     if length == 0:
